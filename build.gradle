@@ -24,7 +24,7 @@ sonarqube {
 dependencies {
     implementation 'uk.co.bithatch:FX-BorderlessScene:5.0.4'
     implementation 'org.jetbrains:annotations:21.0.1'
-    implementation 'org.commonmark:commonmark:0.18.0'
+    implementation 'org.commonmark:commonmark:0.21.0'
     implementation 'org.commonmark:commonmark-ext-gfm-tables:0.18.0'
     implementation 'io.socket:socket.io-client:2.0.1'
     implementation 'org.junit.jupiter:junit-jupiter-api:5.7.2'
